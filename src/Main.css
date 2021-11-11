@@ -1,0 +1,38 @@
+body{
+    background-color: #727272;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 424px;
+    height: 73px;
+    background-color: #bbadad;
+}
+input{
+    text-align: right;
+    border: none;
+    border-top-style: inset;
+    background-color: #afbec4;
+    font-size: 32px;
+}
+.single-input{
+    padding: 13px;
+}
+.ButtonPad{
+    width: 424px;
+    height: 178px;
+    background-color: pink;
+}
+.Button-row{
+    padding: 1px;
+}
+button{
+    padding: 5px;
+    color: rgb(12, 12, 12);
+    display: inline-flex;
+    align-items: center;
+    border: 3px outset;
+    margin-right: 15px;
+    margin-left: 15px;
+    border-radius: 13px;
+}
